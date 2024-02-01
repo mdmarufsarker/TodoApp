@@ -37,17 +37,14 @@
     background-color: #00A86B;
     color: white;
 }
-
 .btnGroup button:nth-child(2){
     background-color: #FFA500;
     color: white;
 }
-
 .btnGroup button:nth-child(3){
     background-color: #EE2E31;
     color: white;
 }
-
 .btnGroup button:nth-child(4){
     background-color: #5F54A0;
     color: white;
