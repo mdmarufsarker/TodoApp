@@ -1,0 +1,21 @@
+.container button {
+  cursor: pointer;
+  padding: 0.3rem 0.5rem;
+  border: none;
+  border-radius: 5px;
+}
+
+.container button:nth-child(1) {
+  background-color: #007fff;
+  color: white;
+}
+
+.container button:nth-child(2) {
+  background-color: #ee2e31;
+  color: white;
+}
+
+.container button:nth-child(3) {
+  background-color: #00a86b;
+  color: white;
+}
