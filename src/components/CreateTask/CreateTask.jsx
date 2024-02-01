@@ -4,11 +4,9 @@ import { Box } from "@stacklearner/spark-ui";
 
 const CreateTask = ({ addNewTask }) => {
   const [text, setText] = useState("");
-
   const handleChange = (e) => {
     setText(e.target.value);
   };
-
   const handleSubmit = (e) => {
     e.preventDefault();
     if (text) {
