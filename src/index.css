@@ -1,29 +1,30 @@
-*{
+* {
   margin: 0;
   padding: 0;
   box-sizing: border-box;
   overflow-x: hidden;
 }
 
-html, body{
+html,
+body {
   height: 100%;
   font-family: Poppins, sans-serif;
   background-color: aliceblue;
 }
 
-a{
+a {
   text-decoration: none;
   color: black;
   cursor: pointer;
 }
 
-.category{
+.category {
   display: flex;
   flex-direction: row;
   gap: 10px;
 }
 
-button{
+button {
   cursor: pointer;
   padding: 0.3rem 0.5rem;
 }
